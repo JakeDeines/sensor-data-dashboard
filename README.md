@@ -36,3 +36,12 @@ curl -X POST http://127.0.0.1:5000/process_sensor_data \
 "humidity": 50.3,
 "timestamp": "2025-03-15T15:45:00Z"
 }'
+---
+
+## 🧠 What I Learned
+
+- 🛠️ **Built a manual ETL pipeline** using Google Cloud services to simulate real-world workflows
+- 💾 **Stored structured sensor data** in Firestore (NoSQL) with JSON formatting
+- ☁️ **Uploaded raw JSON** to Google Cloud Storage for backup and pipeline processing
+- 🧹 **Debugged malformed JSON exports** and ensured integrity before loading into BigQuery
+- 📊 **Loaded and queried data** in BigQuery to understand scalable data warehouse operations
