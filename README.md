@@ -38,7 +38,7 @@ curl -X POST http://127.0.0.1:5000/process_sensor_data \
   "humidity": 50.3,
   "timestamp": "2025-03-15T15:45:00Z"
 }'
-``` <-- This ends the code block!
+``` 
 
 ---
 
