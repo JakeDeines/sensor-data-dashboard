@@ -1,4 +1,5 @@
 # Sensor Data Ingestion & Analytics Pipeline
+![Looker Studio](assets/looker%20snip.png)
 
 ## Overview
 This project demonstrates a **Flask-based ETL pipeline** that ingests sensor data, processes it, and loads it into **Google BigQuery** for analysis. The goal was to simulate a **real-world data engineering workflow**, using **Google Cloud services** to manage and analyze structured sensor data.
