@@ -39,6 +39,13 @@ curl -X POST http://127.0.0.1:5000/process_sensor_data \
   "timestamp": "2025-03-15T15:45:00Z"
 }'
 ``` 
+## Project Screenshots
+
+![Flask Running](assets/data%20shell%20snip.png)
+![Firestore](assets/firestore%20reading%20snip.png)
+![Google Cloud Storage](assets/gcs%20snip.png)
+![BigQuery](assets/big%20query%20snip.png)
+![Looker Studio](assets/looker%20snip.png)
 
 ---
 
