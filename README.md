@@ -1,4 +1,5 @@
 # Sensor Data Ingestion & Analytics Pipeline
+
 ![Looker Studio](assets/looker%20snip.png)
 
 ## Overview
